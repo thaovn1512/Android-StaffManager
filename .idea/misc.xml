@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/app_bar_bg.xml" value="0.201" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.201" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.192" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/ic_launcher_img_background.xml" value="0.1" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/ic_outline_thumb_up_alt_24.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/drawable/rounded_corner_rectangle.xml" value="0.201" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/activity_add_staff.xml" value="0.2421875" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/activity_details.xml" value="0.2421875" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/activity_edit_staff.xml" value="0.4" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/activity_search_staff.xml" value="0.2421875" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/day_item.xml" value="0.2421875" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/details_item.xml" value="0.2421875" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/layout_dialog.xml" value="0.176" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/staff_item.xml" value="0.2421875" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/layout/staff_long_click_bottom_sheet.xml" value="0.2421875" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/mipmap-anydpi-v26/ic_img.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_img.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_img_round.xml" value="0.1125" />
+        <entry key="..\:/Android/giuakyandroid-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+        <entry key="app/src/main/res/drawable/app_bar_bg.xml" value="0.243" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2285" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_add_24.xml" value="0.1575" />
+        <entry key="app/src/main/res/drawable/rounded_corner_rectangle.xml" value="0.166" />
+        <entry key="app/src/main/res/layout/activity_add_staff.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2776268115942029" />
+        <entry key="app/src/main/res/layout/activity_search_staff.xml" value="0.2006340579710145" />
+        <entry key="app/src/main/res/layout/day_item.xml" value="0.19927536231884058" />
+        <entry key="app/src/main/res/layout/details_item.xml" value="0.19927536231884058" />
+        <entry key="app/src/main/res/layout/staff_item.xml" value="0.2586050724637681" />
+        <entry key="app/src/main/res/layout/staff_long_click_bottom_sheet.xml" value="0.17617753623188406" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
